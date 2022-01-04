@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>http://localhost:4000/summer/news/buffalo-cauliflower/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/news/buffalo-cauliflower/" /><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/news/introducing-summer/" />
+<lastmod>2021-01-29T00:00:00-08:00</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://localhost:4000/summer/news/introducing-summer/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/news/buffalo-cauliflower/" /><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/news/introducing-summer/" />
+<lastmod>2016-02-22T00:00:00-08:00</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://localhost:4000/summer/news/example-content/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/news/example-content/" />
+<lastmod>2016-02-07T00:00:00-08:00</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://localhost:4000/summer/news/whats-jekyll/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/news/whats-jekyll/" />
+<lastmod>2016-02-06T00:00:00-08:00</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://localhost:4000/summer/404.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/404.html" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/atom.xml</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/summer/about/" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/sitemap.xml</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/redirects.json</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/feed.xml</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/cauliflower-steaks/</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/gin-tonic-popsicle/</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/halloumi-watermelon-breadcrumbs/</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/physalis-caipiroska/</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/salmon-burger/</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/strawberry-ice-cream/</loc>
+
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>http://localhost:4000/summer/vanilla-crescents/</loc>
+
+<changefreq>weekly</changefreq>
+</url>
+</urlset>
