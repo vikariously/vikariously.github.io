@@ -116,10 +116,10 @@ author:
       icon:
 
 # Footer Links
-footer_links:
-  - title: 
-    url: 
-    icon: 
+#footer_links:
+#  - title: 
+#    url: 
+#    icon: 
 #  - title: Feed
 #    url: atom.xml
 #    icon: fas fa-rss-square

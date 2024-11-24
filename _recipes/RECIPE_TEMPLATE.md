@@ -17,6 +17,8 @@ tags:
 #  - Beef
 #  - Pork
 #  - Veg
+#  - Tofu
+#  - Pasta
 #  - Liquor: Whiskey
 #  - Liquor: Gin
 #  - Liquor: Rum
@@ -37,5 +39,5 @@ BLURB
 
 
 ---
-Originally recipe from [diethood.com](https://diethood.com/braised-pork-shoulder/#wprm-recipe-container-208617)
+Originally recipe from [SITE](URL)
 
