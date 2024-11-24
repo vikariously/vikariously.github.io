@@ -19,7 +19,7 @@ tags:
 #  - Veg
 #  - Tofu
 #  - Pasta
-  - Soups
+  - Soup
 #  - Liquor: Whiskey
 #  - Liquor: Gin
 #  - Liquor: Rum
@@ -48,6 +48,11 @@ I love lasagna, but I don't always want that much noodles & ricotta... enter: _L
 * ½ cup freshly grated parmesan
 * 1 cup grated mozzarella
 
+##### Optional:
+
+* 1 teaspoon balsamic vinegar
+* 1 cup ricotta
+
 
 ## Directions
 
@@ -63,8 +68,4 @@ I love lasagna, but I don't always want that much noodles & ricotta... enter: _L
 * This recipe was done in a 6-quart Instant Pot. 
 * This recipe easily makes 6 generous bowls. It will serve more people as a side dish.  
 
-
-
 ---
-Originally recipe from [SITE](URL)
-

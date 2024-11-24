@@ -19,6 +19,7 @@ tags:
 #  - Veg
 #  - Tofu
 #  - Pasta
+#  - Soup
 #  - Liquor: Whiskey
 #  - Liquor: Gin
 #  - Liquor: Rum
@@ -33,13 +34,11 @@ BLURB
 
 * 
 
-½
+[//]: # ½ ¼ ¾ ⅓ ⅔
 
-¼
-¾
+##### Optional:
 
-⅓ 
-⅔
+* 
 
 
 ## Directions
@@ -51,5 +50,5 @@ BLURB
 * 
 
 ---
-Originally recipe from [SITE](URL)
+[//]: # Originally recipe from [SITE](URL)
 
