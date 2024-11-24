@@ -7,7 +7,7 @@ image:
 published: true
 ---
 
-A deliciously tangy cocktail devised as a method to stretch our gorgeous Santa Rosa Plums longer than the 3 weeks or so that our tree produces for. Once our appetite's can't keep pace, we slice & freeze the plums – a quick and easy addition to smoothies, or the perfect fruit for this boozy treat.
+A deliciously tangy cocktail devised as a method to stretch our gorgeous Santa Rosa Plums longer than the 3 weeks or so that our tree produces for. Once our appetites can't keep pace, we slice & freeze the plums, making these a quick and easy addition to smoothies or the perfect frozen fruit for this boozy treat.
 
 ## Ingredients
 
