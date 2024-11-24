@@ -20,7 +20,7 @@ I'm not usually one for sweet when I'm cooking savory, but this braised pork sho
 * 2 tablespoons olive oil
 * 4 yellow onions, thinly sliced
 * 6 cloves garlic, minced
-* ¼ cup dry white wine
+* ¼ cup dry white wine (2oz)
 * 1 tablespoon fresh thyme, or use 1 teaspoon dried thyme
 * 1 tablespoon fresh chopped rosemary leaves, or use 1 teaspoon crushed dried rosemary
 * 1 teaspoon smoked paprika

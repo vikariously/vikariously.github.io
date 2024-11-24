@@ -33,10 +33,22 @@ BLURB
 
 * 
 
+½
+
+¼
+¾
+
+⅓ 
+⅔
+
+
 ## Directions
 
 1. 
 
+### Notes
+
+* 
 
 ---
 Originally recipe from [SITE](URL)
