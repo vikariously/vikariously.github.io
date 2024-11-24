@@ -13,11 +13,11 @@ $base-font-size: 16px !default;
 $min-vw: $small !default;
 $max-vw: $xlarge !default;
 $min-font-size: 16px !default;
-$max-font-size: 18px !default;
+$max-font-size: 19px !default;
 
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
-$modular-scale-2: 1.2 !default; /* large */
+$modular-scale-2: 1.3 !default; /* large */
 /* Heading 1 */
 $h1-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
 $h1-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
@@ -32,7 +32,7 @@ $h4-min: $modular-scale-1 * $base-font-size !default;
 $h4-max: $modular-scale-2 * $base-font-size !default;
 /* Heading 5 */
 $h5-min: $base-font-size !default;
-$h5-max: $base-font-size !default;
+$h5-max: 1.2 * $base-font-size !default;
 /* Heading 6 */
 $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
@@ -88,8 +88,8 @@ $main-max-width: $medium !default;
 $main-sidebar-max-width: $large !default;
 
 /* Site logo */
-$site-logo-width: 75px !default;
-$site-logo-height: 75px !default;
+$site-logo-width: 100px !default;
+$site-logo-height: 100px !default;
 
 /* Border radius */
 $border-radius: 0.25rem !default;
