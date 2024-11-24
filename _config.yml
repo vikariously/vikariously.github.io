@@ -17,12 +17,12 @@
 remote_theme: vikariously/vikariously.github.io
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "The Camelia Kitchen"
+description: "I should save this recipe..."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%Y-%m-%d"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
