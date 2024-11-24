@@ -55,7 +55,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
@@ -106,7 +106,7 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Evan Tidd & Kari Gohd
   picture:
   email:
   twitter:
@@ -117,6 +117,9 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: 
+    url: 
+    icon: 
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square
