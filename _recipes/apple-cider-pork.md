@@ -4,6 +4,10 @@ image:
   path: /images/apple-cider-pork-lg.png
   thumbnail: /images/apple-cider-pork-sm.png
 #  caption: "Apple Cider Braised Pork"
+categories:
+  - Mains
+tags:
+  - Pork
 published: true
 ---
 

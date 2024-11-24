@@ -4,6 +4,14 @@ image:
   path: /images/plum-daquiri-lg.png
   thumbnail: /images/plum-daquiri-sm.png
 #  caption: "Plum Daquiri"
+categories:
+#  - Breakfast
+#  - Mains
+#  - Sides
+#  - Appetizers
+#  - Sauces
+#  - Sweets
+  - Cocktails
 published: true
 ---
 
