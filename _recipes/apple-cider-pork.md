@@ -3,13 +3,11 @@ title: "Apple Cider Braised Pork"
 image: 
   path: /images/apple-cider-pork-lg.png
   thumbnail: /images/apple-cider-pork-sm.png
-  caption: "Apple Cider Braised Pork"
+#  caption: "Apple Cider Braised Pork"
 published: true
 ---
 
-Originally recipe from [diethood.com](https://diethood.com/braised-pork-shoulder/#wprm-recipe-container-208617)
-
-
+I'm not usually one for sweet when I'm cooking savory, but this braised pork shoulder really won me over. The crispy, salty burnt bits of the pork contrast perfectly with sweetness and subtle tart that the apples impart on the onions and broth. Spoon this over some mashed potatoes or sop up with some crusty bread, and you've got a cozy, hearty meal to warm you up as the days get shorter.
 
 ## Ingredients
 
@@ -25,7 +23,7 @@ Originally recipe from [diethood.com](https://diethood.com/braised-pork-shoulder
 * 1½ cups Apple Cider, NOT Apple Cider Vinegar
 * 1½ cups low sodium chicken broth
 * 2 bay leaves
-* 2 granny smith apples, cored and quartered
+* 2 Granny Smith apples, cored and quartered
 
 ## Directions
 
@@ -42,4 +40,8 @@ Originally recipe from [diethood.com](https://diethood.com/braised-pork-shoulder
 1. Remove from the oven and return the pot to the stovetop. Remove the pork from the pot and transfer it to a cutting board; let it rest for 10 minutes.
 1. In the meantime, set the pot over high heat and bring it to a boil; cook for a couple minutes or until sauce is slightly reduced and thickened.
 1. Cut the pork and serve it with the sauce, onions, and apples.
+
+
+---
+Originally recipe from [diethood.com](https://diethood.com/braised-pork-shoulder/#wprm-recipe-container-208617)
 
