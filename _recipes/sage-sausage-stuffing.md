@@ -61,7 +61,8 @@ Hands down my favorite item on the Thanksgiving dinner table. The magic bread co
 
 ### Notes
 
-* Our favorite bread combo is herbed focaccia and white hot dog buns, but it can be hard to find good focaccia.
+* **Bread:** Our favorite bread combo is herbed focaccia and white hot dog buns, but it can be hard to find good focaccia.
+* **Freezing:** You can actually freeze this! When we can't get through the 8x8, we've vacuum sealed and frozen it, and it reheated perfectly in the original 8x8 vessel months later.
 
 ---
 
