@@ -32,7 +32,7 @@ tags:
 published: true
 ---
 
-BLURB
+One of our favorite heat-and-eat breakfasts – I'll prep 8-12 of these on a Sunday and we'll meter them out over the month for busy mornings. Loads of protein, veggies, and packed with fiber from the tortillas. Serve with spicy ketchup to kick it up a notch!
 
 ## Ingredients
 
