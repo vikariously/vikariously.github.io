@@ -23,11 +23,11 @@ tags:
 #  - Tofu
 #  - Pasta
 #  - Soup
-#  - Liquor: Whiskey
-#  - Liquor: Gin
-#  - Liquor: Rum
-#  - Liquor: Vodka
-#  - Liquor: Tequila
+#  - "Liquor: Whiskey"
+#  - "Liquor Gin"
+  - "Liquor: Rum"
+#  - "Liquor: Vodka"
+#  - "Liquor: Tequila"
 published: true
 ---
 
@@ -46,8 +46,4 @@ This Smuggler's Cove cocktail is incredible – rich and sweet, with a bit of li
 1. Fill a footed pilsner with cubed or cracked ice. 
 1. Add all the ingredients to a cocktail shaker. Fill with cubed or cracked ice. Shake and strain into glass.
 1. Top with grated nutmeg
-
-
----
-Originally recipe from the [Smuggler's Cove Cocktail Book](https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324)
 
