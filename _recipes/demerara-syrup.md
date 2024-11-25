@@ -42,8 +42,11 @@ A strong simple syrup with complex molasses flavors. Recipe from Smuggler's Cove
 
 ## Directions
 
+
 1. Bring the water to a boil in a saucepan over high heat.
+
 1. Add the demerara sugar and stir vigorously with a whisk (or use an immersion blender) until the sugar is dissolved, about 1 minute (the water should become clear).
+
 1. Add the granulated sugar and stir vigorously until dissolved, about 1 minute. Remove from heat and let cool.
 
 ---

@@ -27,7 +27,11 @@ A deliciously tangy cocktail devised as a method to stretch our gorgeous Santa R
 
 ## Directions
 
+
 1. Blend
+
 1. Pour
+
 1. Drink
+
 1. Enjoy

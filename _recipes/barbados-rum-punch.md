@@ -43,7 +43,10 @@ This Smuggler's Cove cocktail is incredible – rich and sweet, with a bit of li
 
 ## Directions
 
+
 1. Fill a footed pilsner with cubed or cracked ice. 
+
 1. Add all the ingredients to a cocktail shaker. Fill with cubed or cracked ice. Shake and strain into glass.
+
 1. Top with grated nutmeg
 

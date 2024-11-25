@@ -42,9 +42,13 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 
 ## Directions
 
+
 1. Preheat the oven to 350°F.
+
 1. Combine the cranberries, sugar, cinnamon, and nutmeg in a small baking dish and cover. Bake for approximately 55 minutes.
+
 1. Remove the cover and stir to melt any undissolved sugar. Return the dish to the oven, uncovered, and bake for 5 more minutes (or until the cranberries are soft and surrounded by a syrupy sauce).
+
 1. Remove the dish from the oven and immediately stir in the bourbon – start with 1 oz and taste, before adding more. Let the dish cool to room temperature, then chill for at least 1 hour before serving.
 
 

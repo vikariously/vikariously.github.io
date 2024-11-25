@@ -45,14 +45,23 @@ This recipe is our special "dump all the Christas Eve leftovers into a pot pie f
 
 ## Directions
 
+
 1. Preheat oven to 425°F
+
 1. Measure the puff pastry to the size of the cast iron plus 1” around the full edge
+
 1. Remove about 1 lb. of Brisket from the leftovers and chop into cubes, set aside
+
 1. Take leftover side veggies and some of the “chunks” from the brisket sauce – crisp/warm these up in the cast iron in a flat layer
+
 1. Once hot, add 1/4 cup of flour, coating the top of the vegetables
+
 1. Add one cup of red wine, and additional brisket liquid to pan, bring to a boil
+
 1. Remove from heat, cover with puff pastry, tucking the excess over the sides of the skillet as much as possible (this is what your 1” margin is for)
+
 1. Egg wash the puff pastry and poke a few slits in the top
+
 1. Bake at 425°F until golden brown, about 20-25 mins.
 
 ---

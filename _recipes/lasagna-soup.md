@@ -56,9 +56,13 @@ I love lasagna, but I don't always want that much noodles & ricotta... enter: _L
 
 ## Directions
 
+
 1. Turn on the Sauté function on the Instant Pot and heat the olive oil, if using. Add the ground meat and cook until no longer pink (about 7-8 minutes), breaking it up into smaller pieces. Discard the excess oil, if needed, leaving just a thin layer (tip: you can use a paper towel to soak it up, rather than draining it). Add the onion and sauté another couple minutes until they are starting to soften and become fragrant. Add mushrooms and garlic, and saute for another 3-4 minutes, until mushrooms start to shrink and brown. Turn off the sauté function.
+
 1. Add a small amount of the broth and deglaze the bottom of the insert (using a spatula, scrape up any brown bits that are stuck - DONT skip this step). Add the remaining broth, marinara sauce, diced tomatoes, basil, italian seasoning, and red pepper flakes. Add the broken lasagna noodles and push them down into the liquid until just submerged (you dont want them to touch the bottom, but make sure they are not clumped together). Put on the lid, set it to sealing and cook on Manual high pressure for 6 minutes. 
+
 1. At the end of pressure cooking time, quick release the pressure. Stir in the greens and try to break up any remaining clumps of noodles using two forks.
+
 1. We recommend serving the mozzarella and parmesan as garnish to avoid the cleaning disaster that is cheese in the instant pot. If you would like to add ricotta or balsamic vinegar as toppings, that step can be done as garnish as well. 
 
 ### Notes
