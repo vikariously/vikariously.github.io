@@ -36,7 +36,7 @@ Hands down my favorite item on the Thanksgiving dinner table. The magic bread co
 
 ## Ingredients
 
-* 2½ lbs bread, cut into 3/4-inch cubes (about 5 quarts)
+* 2½ lbs bread, cut into ¾-inch cubes (about 5 quarts)
   * We used Specialties’ Focaccia and white hot dog buns, it is an amazing combo
 * 8 Tbsp butter (1 stick; 4 ounces; 115g)
 * 1 1/2 pounds (680g) sage sausage, removed from casing (We used 50/50 hot and mild Italian)

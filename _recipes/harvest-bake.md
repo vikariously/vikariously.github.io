@@ -18,10 +18,10 @@ tags:
 #  - Pork
   - Sausage
   - Veg
+  - Vegetarian/Vegan Friendly
 #  - Tofu
 #  - Pasta
 #  - Soup
-
 #  - Liquor: Whiskey
 #  - Liquor: Gin
 #  - Liquor: Rum
@@ -30,7 +30,7 @@ tags:
 published: true
 ---
 
-BLURB
+A fantastic, healthy meal with year-round ingredients, but especially perfect for Fall. We like it with sausage crumbles, but if you’d prefer a vegetarian dish, substitute 2 Tbsp Olive Oil instead of sausage fat renderings. Leftovers can be served for breakfast with a fried egg topper and hot sauce!
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ BLURB
 
 ## Directions
 
-1. Preheat the oven to 425 degrees F (400 convect).
+1. Preheat the oven to 425°F (400°F convect).
 1. Quarter the brussels and cut sweet potato to similar size
 1. toss the brussels & sweet potato in olive oil and spice mix
 1. Place on a baking sheet or in 9x13 dish and bake for approx 35 minutes, until sweet potatoes begin to soften
