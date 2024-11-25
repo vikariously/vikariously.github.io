@@ -60,8 +60,6 @@ BLURB
 1. Burritos can be kept in the fridge for up to 1 week, or placed in freezer zip-loc and frozen for up to 3 months (they will not last this long). 
   * Note: we typically leave 4 in the fridge for the first week, and freeze 4 to be thawed in a week’s time!
 
-### Notes
-
 ### Reheating Instructions
 
 **From Fridge:** punch several holes in the burrito, then wrap in a paper towel. Place on a microwave safe plate and heat on medium-high for ~2:30
