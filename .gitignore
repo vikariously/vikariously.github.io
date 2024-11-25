@@ -13,3 +13,4 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 _recipes/z.RECIPE_TEMPLATE.md
+images/recipe-image-template-1600x800.psd

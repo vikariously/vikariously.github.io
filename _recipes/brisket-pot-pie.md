@@ -32,7 +32,7 @@ tags:
 published: true
 ---
 
-This recipe is our special "dump all the Christas Eve leftovers into a pot pie for Christmas Dinner" special! We use our side veg of Asparagus, Peas, and Red Onions mixed in with the [Slow Cooker Brisket](/recipes/slow-cooker-brisket) leftovers and gravy all chopped up, reduce with red wine, and you've got a whole new exciting meal. Serve with leftover [Basil Potato Puree](/recipes/basil-potato-puree).
+This recipe is our special "dump all the Christas Eve leftovers into a pot pie for Christmas Dinner" special! We use our side veg of Asparagus, Peas, and Red Onions mixed in with the [Slow Cooker Brisket](/recipes/slow-cooker-brisket) leftovers and gravy all chopped up, reduce with red wine, and you've got a whole new exciting meal. Serve with leftover [Basil Potato Puree](/recipes/potato-basil-puree).
 
 ## Ingredients
 
