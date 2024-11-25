@@ -55,6 +55,5 @@ Floral and herbal, with a lovely lilac hue.
 1. Remove the pan from the heat and allow the thyme to steep in the syrup for around 15-20 minutes as the syrup cools.
 1. Pour the syrup through a fine strainer/sieve to hold back the thyme and store the syrup in a sealed bottle/jar in the fridge until needed.
 
----
-Originally recipe from the [Smuggler's Cove Cocktail Book](https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324)
+Thyme Syrup recipe originally from [figjar.com](https://www.figjar.com/thyme-simple-syrup/)
 
