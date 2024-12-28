@@ -1,8 +1,8 @@
 ---
 title: "Cashew Red Pepper Dip"
 image: 
-  path: /images/X-lg.png
-  thumbnail: /images/X-sm.png
+  path: /images/cashew-red-pepper-dip-lg.png
+  thumbnail: /images/cashew-red-pepper-dip-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast

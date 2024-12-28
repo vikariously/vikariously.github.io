@@ -1,8 +1,8 @@
 ---
 title: "Zucchini Muffins"
 image: 
-  path: /images/X-lg.png
-  thumbnail: /images/X-sm.png
+  path: /images/zucchini-muffins-lg.png
+  thumbnail: /images/zucchini-muffins-sm.png
 #  caption: "CAPTION"
 categories:
   - Breakfast
