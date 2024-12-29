@@ -1,8 +1,8 @@
 ---
 title: "Crispy Smashed Brussels Sprouts"
 image: 
-  path: /images/X-lg.png
-  thumbnail: /images/X-sm.png
+  path: /images/crispy-smashed-brussels-lg.png
+  thumbnail: /images/crispy-smashed-brussels-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
