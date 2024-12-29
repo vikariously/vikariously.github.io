@@ -44,6 +44,17 @@ This recipe can also be cooked several ways. You can do a simple marinade and th
 * ¼ cup olive oil
 * 3 tablespoons lemon juice (1.5 oz)
 * 3 Tbsp of Shawarma Spice Blend (1½ Tbsp per pound of chicken)
+* Your favorite Mediterranean Fixin's, for serving:
+  * Tomatoes
+  * Cucumbers
+  * Kalamata Olives
+  * Lemon
+  * Hummus
+  * Lettuce(s)
+  * Pita (or [Whole Wheat Fiber Wraps](https://www.missionfoods.com/products/carb-balance-fajita-whole-wheat-tortillas/))
+  * Feta
+  * Chickpeas
+  * [Cashew Red Pepper Dip](/recipes/cashew-red-pepper-dip)
 
 ### Shawarma Spice Blend
 
@@ -66,9 +77,7 @@ This recipe can also be cooked several ways. You can do a simple marinade and th
 
 1. Line a 9x5 loaf pan with parchment paper, so that a small amount of the paper comes up around the edge that you can use to pull it out at the end.
 
-1. Line a 9×5 inch loaf pan with parchment paper. In a small bowl, whisk together all of the spices.
-
-1. Layer the chicken in the loaf pan and press down at the end. Bake for 40-45 minutes – use a thermometer to ensure you've hit 165 in the center. Remove from oven and let it rest for 10 minutes to soak up the juices.
+1. Layer the chicken in the loaf pan and press down at the end. Bake for 40-45 minutes – use a thermometer to ensure you've hit 165°F in the center. Remove from oven and let it rest for 10 minutes to soak up the juices.
 
 1. Turn the pan over onto a cutting board and slice the chicken as you need it.
 
