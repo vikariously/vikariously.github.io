@@ -37,6 +37,8 @@ This Shawarma Chicken seasoning & marinade is warm and complex. When I was first
 
 This recipe can also be cooked several ways. You can do a simple marinade and then cook the chicken any way you normally would (grill, pan, bake, etc.), or you can layer the marinaded chicken in a loaf pan and bake to create that authentic "layered & shaved" shawarma character.
 
+![A tasty shawarma wrap](/images/chicken-shawarma-1.jpg)
+
 ## Ingredients
 
 * 1 lb boneless skinless chicken breasts cut into smaller pieces
