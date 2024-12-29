@@ -1,8 +1,8 @@
 ---
-title: "TITLE"
+title: "Classic Roasted Broccoli"
 image: 
-  path: /images/X-lg.png
-  thumbnail: /images/X-sm.png
+  path: /images/classic-roasted-broccoli-lg.png
+  thumbnail: /images/classic-roasted-broccoli-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
