@@ -1,8 +1,8 @@
 ---
-title: "Lilac Collins"
+title: "Purple Reign (Gimlet / Collins)"
 image: 
-  path: /images/x-lg.png
-  thumbnail: /images/x-sm.png
+  path: /images/purple-reign-lg.png
+  thumbnail: /images/purple-reign-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
@@ -38,12 +38,11 @@ Floral and herbal, with a lovely lilac hue.
 * 2 oz. Empress Gin
 * 1 oz. Meyer Lemon Juice
 * ¾ oz. Thyme Simple Syrup (recipe below)
-* Club Soda
+* ~4 oz. Club Soda (*optional*)
 
 ## Directions
 
-
-1. Shake, then pour over ice in a Collins glass and top with club soda.
+1. Shake, then pour into a coupe. Garnish with a sprig of thyme. OR, if making a Collins: pour over ice in a Collins glass and top with club soda. Garnish with sprig of thyme and half lemon wheel.
 
 #### Thyme Simple Syrup
 
