@@ -39,7 +39,7 @@ I love a good cinnamon roll, but they can be a lot of work to make. This delecta
 
 ## Ingredients
 
-### For the Bread:
+#### For the Bread:
 
 * 1 lb. Trader Joe's fresh pizza dough
 * ½ cup Brown Sugar
@@ -48,7 +48,7 @@ I love a good cinnamon roll, but they can be a lot of work to make. This delecta
 * ½ cup (1 stick) unsalted butter, melted
 * 1 tsp. vanilla extract
 
-### For the Icing:
+#### For the Icing:
 
 * 2 cups powdered sugar, sifted (make sure you sift it!!)
 * 3 Tbsp unsalted butter, melted 
@@ -56,8 +56,6 @@ I love a good cinnamon roll, but they can be a lot of work to make. This delecta
 * 2 oz. milk
 
 ## Directions
-
-### For the Bread:
 
 1. Preheat the oven to 375°F and grease a bundt pan. You can alternatively use a 9x5-inch loaf pan.
 
