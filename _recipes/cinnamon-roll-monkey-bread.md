@@ -35,7 +35,7 @@ published: true
 
 I love a good cinnamon roll, but they can be a lot of work to make. This delectable, shareable, sticky-sweet cinnamon pull-apart bread uses off-the-shelf dough for a quick and easy answer to that problem!
 
-![Constructing your bread](/images/cinnamon-monkey-bread-1)
+![Constructing your bread](/images/cinnamon-monkey-bread-1.jpg)
 
 ## Ingredients
 

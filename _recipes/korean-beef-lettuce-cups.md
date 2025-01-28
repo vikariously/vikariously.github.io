@@ -35,7 +35,7 @@ published: true
 
 A fast, easy, delicious weeknight dinner, these Korean Beef Lettuce Cups use mostly ingredients right out of the pantry. Delicious with some quick pickled veggies or kimchi and rice! You can also mix it up and prepare this as a rice bowl instead of lettuce cups.
 
-![Beef, pickled veggies, and lettuce, ready for construction](/images/korean-beef-lettuce-cups-1)
+![Beef, pickled veggies, and lettuce, ready for construction](/images/korean-beef-lettuce-cups-1.jpg)
 
 ## Ingredients
 
