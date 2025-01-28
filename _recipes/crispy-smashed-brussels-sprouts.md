@@ -62,5 +62,5 @@ Crispy and with a rich cheesy flavor from the nutritional yeast. These are great
 * **Applying Olive Oil & Spices:** I have not figured out the best way to do this yet, and I'm definitely still experimenting. The order of "Smash" | "Season" | "Spread on tray" could be done in any order really, with varying degrees of success. I may try smashing, then mixing in a bowl with spices/oil, then putting back on the tray next, but I'm worried they'll fall apart...
 
 ---
-[//]: # Originally recipe from [SITE](URL)
+[//]: # Original Recipe from [SITE](URL)
 

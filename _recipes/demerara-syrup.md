@@ -50,6 +50,6 @@ A strong simple syrup with complex molasses flavors. Recipe from Smuggler's Cove
 1. Add the granulated sugar and stir vigorously until dissolved, about 1 minute. Remove from heat and let cool.
 
 ---
-Originally recipe from the [Smuggler's Cove Cocktail Book](https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324)
+Original recipe from the [Smuggler's Cove Cocktail Book](https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324)
 
 

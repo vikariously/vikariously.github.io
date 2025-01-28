@@ -56,5 +56,5 @@ This recipe takes some forethought to soak the cashews, but the end result is a 
 * **Soaking Cashews:** The main caution with the overnight method of soaking cashews is that you don't want to soak them for too long. After 16 hours or so, I find they start to get a bit slimy. I suggest rinsing and refreshing your water after 12 hours if you aren't yet ready to use them. After 16 hours, if the cashews are gel-like and really slimy (say you forget about them completely), recommend tossing them.
 
 ---
-Originally recipe from someone on Instagram...
+Original Recipe from someone on Instagram...
 
