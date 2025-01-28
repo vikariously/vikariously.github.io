@@ -1,5 +1,5 @@
 ---
-title: "Korean Beef & Lettuce Cups"
+title: "Korean Beef Lettuce Cups"
 image: 
   path: /images/korean-beef-lettuce-cups-lg.png
   thumbnail: /images/korean-beef-lettuce-cups-sm.png
@@ -53,9 +53,10 @@ A fast, easy, delicious weeknight dinner, these Korean Beef Lettuce Cups use mos
 
 Serve with:
 
-* white rice
-* pickled veggies
-* kimchi
+* White Rice
+* Pickled Veggies
+* Kimchi
+* Sriracha
 
 ## Directions
 
