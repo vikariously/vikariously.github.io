@@ -60,5 +60,5 @@ More fluffy with less toil!
 * **Mix & Match Toppings:** You can do different toppings on different "regions" of the pan, including overlapping them to mix & match! e.g. try left half blueberry / bottom half sprinkles, and you'll end up with 4 different topping quadrants!
 
 ---
-[//]: # Original Recipe from [SITE](URL)
+[//]: # Original recipe from [SITE](URL)
 

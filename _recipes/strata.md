@@ -71,5 +71,5 @@ This "Anything Goes" Strata is our go-to answer when we've got an assortment of 
 * **1/2 size:** You can make this recipe in an 8x8 by cutting it in ~half (but why would you?).
 
 ---
-[//]: # Original Recipe from [SITE](URL)
+[//]: # Original recipe from [SITE](URL)
 

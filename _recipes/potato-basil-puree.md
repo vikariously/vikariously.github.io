@@ -54,5 +54,5 @@ One of our favorite versions of mashed potatoes, the basil adds a bright, herbac
 1. With a handheld mixer with the beater attachment, beat the hot potatoes in the pot until they are broken up. Slowly add the hot basil cream, the salt, and pepper and beat until smooth. If the potatoes need to be reheated, cover and cook gently over low heat for a few minutes. Pour into a serving bowl, sprinkle with extra Parmesan cheese, season to taste, and serve hot.
 
 ---
-Original Recipe from [foodnetwork.com](https://www.foodnetwork.com/recipes/ina-garten/potato-basil-puree-recipe-1925369) courtesy of Ina Garten
+Original recipe from [foodnetwork.com](https://www.foodnetwork.com/recipes/ina-garten/potato-basil-puree-recipe-1925369) courtesy of Ina Garten
 

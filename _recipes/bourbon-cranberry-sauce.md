@@ -57,5 +57,5 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 * **Bourbon:** You really can't go wrong with either a traditional bourbon (to lean sweeter) or rye whiskey (for a bit more dry/spice character). However, I would personally lean away from a sour mash.
 
 ---
-[//]: # Original Recipe from [SITE](URL)
+[//]: # Original recipe from [SITE](URL)
 

@@ -55,6 +55,6 @@ Classic. Simple. Broccoli.
 
 
 ---
-[//]: # Original Recipe from [SITE](URL)
+[//]: # Original recipe from [SITE](URL)
 
 

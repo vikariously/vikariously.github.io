@@ -100,5 +100,5 @@ This recipe can also be cooked several ways. You can do a simple marinade and th
   * 1 tsp cardamom
 
 ---
-[//]: # Original Recipe from [SITE](URL)
+[//]: # Original recipe from [SITE](URL)
 

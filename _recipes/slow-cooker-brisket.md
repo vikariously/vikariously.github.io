@@ -79,8 +79,8 @@ A hearty meal that will make the whole house smell good all day, and something o
 
 ### Notes
 
-* **Oven-cooked Variation:** If you'd prefer to do this in the oven instead of a slow cooker, see the original recipe link below for those instructions.
+* **Oven-cooked Variation:** If you'd prefer to do this in the oven instead of a slow cooker, see the Original recipe link below for those instructions.
 
 ---
-Original Recipe from [lemonblossoms.com](https://www.lemonblossoms.com/blog/beer-braised-brisket/)
+Original recipe from [lemonblossoms.com](https://www.lemonblossoms.com/blog/beer-braised-brisket/)
 

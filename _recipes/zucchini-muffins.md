@@ -92,5 +92,5 @@ These muffins are moist and fluffy with an incredible sweet spice character from
 * **Freezing & Reheating:** These muffins freeze very well in a ziploc bag to reheat for easy breakfasts or snacks. When reheating in the microwave, we do ~20 seconds on one side, roll over, then another ~20 seconds (YMMV depending on your microwave).
 
 ---
-[//]: # Original Recipe from [SITE](URL)
+[//]: # Original recipe from [SITE](URL)
 

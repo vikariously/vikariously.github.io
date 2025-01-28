@@ -60,5 +60,5 @@ I'm not usually one for sweet when I'm cooking savory, but this braised pork sho
 
 
 ---
-Original Recipe from [diethood.com](https://diethood.com/braised-pork-shoulder/#wprm-recipe-container-208617)
+Original recipe from [diethood.com](https://diethood.com/braised-pork-shoulder/#wprm-recipe-container-208617)
 

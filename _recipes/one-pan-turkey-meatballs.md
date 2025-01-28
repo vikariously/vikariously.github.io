@@ -73,7 +73,7 @@ Kosher salt and freshly ground black pepper
 
 
 ---
-[//]: # Original Recipe from [SITE](URL)
+[//]: # Original recipe from [SITE](URL)
 
 
 
