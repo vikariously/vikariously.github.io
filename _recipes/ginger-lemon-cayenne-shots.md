@@ -37,8 +37,9 @@ With a zing and a kick, this is my favorite way to use up an abundance of Meyer 
 
 - 12 oz. Meyer Lemon Juice
 - 50g fresh Ginger Root (weight post-peeling)
-- ¼ tsp Cayenne Pepper
-- 2 tsp Honey 
+- ¼ tsp Cayenne Pepper, or more/less to taste
+- 1 Tbsp Honey, or more to taste
+- (_optional_) 20g fresh Turmeric Root (weight post-peeling)
 
 ## Directions
 
@@ -48,7 +49,8 @@ With a zing and a kick, this is my favorite way to use up an abundance of Meyer 
 
 ### Notes
 
-* **Peeling Ginger Tip:** you can use a spoon to shred off the skin of the ginger. Works like a charm and you lose a lot less of the flesh compared to using a knife.
+* **Peeling Ginger & Turmeric Tip:** you can use a spoon to shred off the skin of the ginger. Works like a charm and you lose a lot less of the flesh compared to using a knife.
+* **Substituting Regular Lemons:** if you have or prefer to use regular lemon juice, I recommend upping the Honey to 1.5 or 2 Tbsp to balance it being more tart / less sweet than Meyer Lemon juice.
 
 ---
 
