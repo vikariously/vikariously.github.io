@@ -1,6 +1,6 @@
 ---
 title: "Potato Leek Soup"
- image: 
+image: 
    path: /images/potato-leek-soup-lg.png
    thumbnail: /images/potato-leek-soup-sm.png
 #  caption: "CAPTION"
@@ -35,9 +35,7 @@ published: true
 
 A warm and nourishing soup easy enough for week nights. We specifically like this no-cream recipe that keeps it hearty without the added fat.
 
-**Total Time:** 45 minutes 
-
-**Yield:** 4 people
+**Total Time:** 45 minutes | **Yield:** 4 people
 
 ## Ingredients
 
