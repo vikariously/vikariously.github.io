@@ -1,8 +1,8 @@
 ---
 title: "Potato Leek Soup"
-# image: 
-#   path: /images/potato-leek-soup-lg.png
-#   thumbnail: /images/potato-leek-soup-sm.png
+ image: 
+   path: /images/potato-leek-soup-lg.png
+   thumbnail: /images/potato-leek-soup-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
@@ -77,4 +77,4 @@ A warm and nourishing soup easy enough for week nights. We specifically like thi
 
 
 ---
-[//]: # Originally based on recipe from [website.com](https://www.website.com)
+Originally based on recipe from [Eat Like An Adult](https://eatlikeanadult.com/leek-potato-soup-no-cream/)
