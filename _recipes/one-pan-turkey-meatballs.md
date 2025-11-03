@@ -63,7 +63,7 @@ Kosher salt and freshly ground black pepper
 * 1 large egg
 
 ## Directions
-°
+
 1. Preheat the oven to 450°F. In a 9x13-inch baking dish, combine all the gnocchi ingredients and toss to combine.
 
 1. In a large bowl, combine all the meatball ingredients and stir until well incorporated. Scoop 2-tablespoon-sized meatballs, rolling with wet hands to smooth, and nestle into the gnocchi mixture. Drizzle with another 2 to 3 tablespoons olive oil.
