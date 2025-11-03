@@ -1,5 +1,5 @@
 ---
-title: "Kari’s #InstantPot Mac and Cheese"
+title: "Kari’s InstantPot Mac & Cheese"
 # image: 
 #   path: /images/karis-instantpot-mac-and-cheese-lg.png
 #   thumbnail: /images/karis-instantpot-mac-and-cheese-sm.png
@@ -33,8 +33,6 @@ tags:
 published: true
 ---
 
-[INTRO PARAGRAPH HERE]
-
 ## Ingredients
 
 * 16 Ounces Uncooked Pasta - highly recommend shells (and the larger the better!)
@@ -60,10 +58,5 @@ published: true
 1. Add the milk, then the cheese to the pot in 3-4 handfuls, stirring in between each addition until smooth and creamy. If the sauce is too wet, slowly add bread crumbs until the cheese sticks to the shells
 
 
-### Notes
-
-# * Note 1
-# * Note 2
-
 ---
-# Originally based on recipe from [website.com](https://www.website.com)
+[//]: # Originally based on recipe from [website.com](https://www.website.com)
