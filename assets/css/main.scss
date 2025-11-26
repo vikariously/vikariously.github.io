@@ -6,3 +6,58 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+/* Custom styles for categories and tags pages */
+.layout--categories,
+.layout--tags {
+  .taxonomy-section-title {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+  }
+
+  .entries-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 2em;
+
+    .entry {
+      max-width: 400px;
+      display: flex;
+      flex-direction: column;
+      padding-bottom: 2rem;
+    }
+
+    .entry-image {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+
+    .entry-title {
+      font-size: clamp(18px, 2vw, 24px);
+      order: 1;
+    }
+
+    .entry-excerpt {
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      order: 3;
+
+      > * {
+        font-size: 1rem;
+      }
+    }
+
+    .entry-meta {
+      order: 2;
+      margin-bottom: 1em;
+      font-size: 0.75rem;
+    }
+  }
+}

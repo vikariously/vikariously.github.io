@@ -1,8 +1,8 @@
 ---
 title: "Verde Enchiladas (aka Bin-chiladas)"
- image: 
-   path: /images/verde-enchiladas-lg.png
-   thumbnail: /images/verde-enchiladas-sm.png
+image:
+  path: /images/verde-enchiladas-lg.png
+  thumbnail: /images/verde-enchiladas-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
@@ -25,7 +25,7 @@ tags:
 #  - Pasta
 #  - Soup
 #  - "Liquor: Whiskey"
-#  - "Liquor Gin"
+#  - "Liquor: Gin"
 #  - "Liquor: Rum"
 #  - "Liquor: Vodka"
 #  - "Liquor: Tequila"

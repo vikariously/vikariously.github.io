@@ -1,0 +1,16 @@
+{
+  "name": "vikariously-github-io",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run jekyll:watch\" \"npm run vite:dev\"",
+    "jekyll:watch": "bundle exec jekyll build --watch --incremental",
+    "jekyll:build": "bundle exec jekyll build",
+    "vite:dev": "vite",
+    "build": "bundle exec jekyll build && vite build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "vite": "^5.0.0"
+  }
+}

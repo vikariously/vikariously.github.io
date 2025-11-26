@@ -26,7 +26,7 @@ tags:
 #  - Pasta
 #  - Soup
 #  - "Liquor: Whiskey"
-#  - "Liquor Gin"
+#  - "Liquor: Gin"
 #  - "Liquor: Rum"
 #  - "Liquor: Vodka"
 #  - "Liquor: Tequila"
