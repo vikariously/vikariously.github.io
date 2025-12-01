@@ -1,8 +1,8 @@
 ---
 title: "Rosemary Sea Salt Focaccia"
-# image: 
-#   path: /images/focaccia-lg.png
-#   thumbnail: /images/focaccia-sm.png
+image:
+  path: /images/focaccia-lg.png
+  thumbnail: /images/focaccia-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
