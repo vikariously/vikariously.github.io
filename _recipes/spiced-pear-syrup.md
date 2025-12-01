@@ -31,7 +31,7 @@ tags:
 published: true
 ---
 
-A beautifully aromatic syrup infused with warm autumn spices and sweet pears. Perfect for cocktails, coffee, or drizzled over pancakes and desserts. The combination of cinnamon, star anise, and fresh ginger creates a complex, warming flavor that captures the essence of fall in a bottle.
+A beautifully sweet syrup infused with warm autumn spices. Perfect for Bourbon/Rye cocktails, coffee, or drizzled over pancakes, waffles, and desserts. The combination of cinnamon, nutmeg, and other spices with candied pear captures the cozy-spiced essence of fall in a bottle.
 
 ## Ingredients
 
@@ -42,9 +42,8 @@ A beautifully aromatic syrup infused with warm autumn spices and sweet pears. Pe
 - 3 cinnamon sticks
 - 1 star anise pod (_optional_)
 - pinch nutmeg (_optional_)
-- ½ teaspoon chopped fresh ginger (_optional_, can add a nice warmth)
 
-[//]: # ½ ¼ ¾ ⅓ ⅔
+**Note on Spices:** When first making this, we used 3 cinnamon sticks and the nutmeg. Next time, I'll be adding the Star Anise to see how it changes!
 
 ## Directions
 
@@ -62,9 +61,8 @@ A beautifully aromatic syrup infused with warm autumn spices and sweet pears. Pe
 
 ### Notes
 
-* **Pear Selection:** Choose pears that are slightly firm rather than fully ripe. Overly ripe pears will break down too much during simmering and make the syrup cloudy.
-* **Spice Variations:** Feel free to adjust the spices to your preference. Adding a few whole cloves or a small piece of vanilla bean can create interesting flavor variations.
-* **Serving Suggestions:** This syrup is excellent in hot toddies, mixed with bourbon or rum, stirred into coffee or tea, or used as a sweetener for fall cocktails.
+* **Pear Selection:** You can use Anjou, Bosc, or Bartlett. Choose pears that are slightly firm rather than fully ripe – overly ripe pears will break down too much during simmering and make the syrup cloudy.
+* **Spice Variations:** Feel free to adjust the spices to your preference. Adding a few whole cloves, ½ tsp. fresh chopped ginger, or a small piece of vanilla bean are other options to create interesting flavor variations.
 
 ---
 
