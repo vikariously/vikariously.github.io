@@ -35,6 +35,7 @@ A fantastic, healthy meal with year-round ingredients, but especially perfect fo
 ## Ingredients
 
 * 1 lb. Italian Sausage (hot or mild, pork or chicken)
+  * you can omit this to keep the recipe Vegetarian/Vegan friendly
 * 2 large Sweet Potatoes
 * 1 lb. Brussels Sprouts, quartered (or halved depending on size)
 * 1 Bunch (or bag) of chopped adult/dino Kale, stems removed

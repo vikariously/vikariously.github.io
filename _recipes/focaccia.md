@@ -51,7 +51,7 @@ No need to stress about sourdough starters – make no-knead focaccia instead! A
 
 ### TESTING NOTES:
 
-##### Nov'25
+#### Nov'25
 
 - Dropped temp from original 500°F to 450°F, and this was an improvement, but want even lower
 - Focaccia came out gorgeous, but crust was a bit thick – had an oily crunch that actually started to taste like a donut/funnel cake.
