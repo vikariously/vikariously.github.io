@@ -1,0 +1,4 @@
+- any time I enter a prompt that begins with "Recipe:" (or "recipe:"), it means to do the following:
+- analyze all of the recipes in the _recipes folder
+- ingest the recipe info pasted along with "Recipe:"
+- create a new recipe.md file in the correct format
