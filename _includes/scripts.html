@@ -60,3 +60,7 @@ MathJax = {
 {%- if page.layout == "search" -%}
   {% include lunr-search-scripts.html %}
 {%- endif -%}
+
+{%- if page.collection == 'recipes' -%}
+  <script src="{{ '/assets/js/recipe-mode.js' | relative_url }}"></script>
+{%- endif -%}
