@@ -10,6 +10,7 @@ categories:
   - Sides
 #  - Appetizers
 #  - Sauces
+  - Bread
 #  - Sweets
 #  - Cocktails
 #  - Syrups
@@ -24,7 +25,6 @@ tags:
 #  - Tofu
 #  - Pasta
 #  - Soup
-  - Bread
 #  - "Liquor: Whiskey"
 #  - "Liquor Gin"
 #  - "Liquor: Rum"
