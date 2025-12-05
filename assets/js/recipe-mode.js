@@ -56,15 +56,21 @@
 
   // Create and inject the Recipe Mode toggle HTML
   function createRecipeModeToggle() {
-    // Find the Ingredients heading
-    const ingredientsHeading = Array.from(document.querySelectorAll('h2')).find(
-      h2 => h2.textContent.trim() === 'Ingredients'
-    );
+    // Find the Ingredients heading - check both by text and by ID
+    let ingredientsHeading = document.querySelector('h2#ingredients');
+
+    if (!ingredientsHeading) {
+      ingredientsHeading = Array.from(document.querySelectorAll('h2')).find(
+        h2 => h2.textContent.trim() === 'Ingredients'
+      );
+    }
 
     if (!ingredientsHeading) {
       console.log('Recipe Mode: Ingredients heading not found');
       return null;
     }
+
+    console.log('Recipe Mode: Found ingredients heading', ingredientsHeading);
 
     // Create the toggle container
     const container = document.createElement('div');
