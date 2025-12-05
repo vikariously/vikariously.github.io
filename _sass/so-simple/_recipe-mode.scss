@@ -3,11 +3,12 @@
    ========================================================================== */
 
 .recipe-mode-container {
-  margin: 1.5rem 0;
-  padding: 1rem;
-  background-color: rgba(0, 0, 0, 0.02);
-  border-radius: $border-radius;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border: 2px solid #dee2e6;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
 }
 
 .recipe-mode-toggle {
@@ -82,8 +83,9 @@
 /* Dark mode / alternate color schemes */
 @media (prefers-color-scheme: dark) {
   .recipe-mode-container {
-    background-color: rgba(255, 255, 255, 0.05);
-    border-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   }
 
   .recipe-mode-description {

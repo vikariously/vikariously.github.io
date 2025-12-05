@@ -54,9 +54,39 @@
     }
   });
 
+  // Create and inject the Recipe Mode toggle HTML
+  function createRecipeModeToggle() {
+    // Find the Ingredients heading
+    const ingredientsHeading = Array.from(document.querySelectorAll('h2')).find(
+      h2 => h2.textContent.trim() === 'Ingredients'
+    );
+
+    if (!ingredientsHeading) {
+      console.log('Recipe Mode: Ingredients heading not found');
+      return null;
+    }
+
+    // Create the toggle container
+    const container = document.createElement('div');
+    container.className = 'recipe-mode-container';
+    container.innerHTML = `
+      <label class="recipe-mode-toggle">
+        <input type="checkbox" id="recipe-mode-toggle" />
+        <span class="recipe-mode-slider"></span>
+        <span class="recipe-mode-label">Recipe Mode</span>
+      </label>
+      <p class="recipe-mode-description">Keep screen awake while cooking</p>
+    `;
+
+    // Insert before the Ingredients heading
+    ingredientsHeading.parentNode.insertBefore(container, ingredientsHeading);
+
+    return container.querySelector('#recipe-mode-toggle');
+  }
+
   // Initialize when DOM is ready
   function initRecipeMode() {
-    const toggle = document.getElementById('recipe-mode-toggle');
+    const toggle = createRecipeModeToggle();
 
     if (!toggle) return;
 

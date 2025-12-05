@@ -2,3 +2,4 @@
 - analyze all of the recipes in the _recipes folder
 - ingest the recipe info pasted along with "Recipe:"
 - create a new recipe.md file in the correct format
+- I may also follow "Recipe:" with a URL - if so, use the content from the linked recipe to generate the new recipe.md
