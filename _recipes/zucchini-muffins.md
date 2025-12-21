@@ -31,6 +31,7 @@ tags:
 #  - "Liquor: Vodka"
 #  - "Liquor: Tequila"
 #  - InstantPot
+  - EZ-Freeze
 published: true
 ---
 

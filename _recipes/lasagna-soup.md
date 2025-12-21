@@ -16,15 +16,17 @@ tags:
 #  - Chicken
 #  - Beef
 #  - Pork
+  - Sausage
 #  - Veg
 #  - Tofu
-#  - Pasta
+  - Pasta
   - Soup
 #  - Liquor: Whiskey
 #  - Liquor: Gin
 #  - Liquor: Rum
 #  - Liquor: Vodka
 #  - Liquor: Tequila
+  - EZ-Freeze
 published: true
 ---
 
@@ -71,5 +73,6 @@ I love lasagna, but I don't always want that much noodles & ricotta... enter: _L
 * You may need to add more broth and marinara when reheating leftovers, because the noodles will continue to absorb the broth when refrigerated. 
 * This recipe was done in a 6-quart Instant Pot. 
 * This recipe easily makes 6 generous bowls. It will serve more people as a side dish.  
+* **Freezing:** Too big a batch? Freezing this soup in vacuum seal bags works pretty well, just thaw overnight and reheat for future lunches & dinners.
 
 ---
