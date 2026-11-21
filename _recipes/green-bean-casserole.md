@@ -21,7 +21,7 @@ tags:
 #  - Sausage
 #  - Turkey
   - Veg
-#  - Vegetarian/Vegan Friendly
+  - Vegetarian/Vegan Friendly
 #  - Tofu
 #  - Pasta
 #  - Soup
@@ -40,8 +40,8 @@ The classic holiday green bean casserole — creamy mushroom sauce and a crispy 
 
 * 2 lb fresh green beans, trimmed and cut into 1½–2" pieces
 * 2 Tbsp kosher salt (for the blanching water)
-* 2 (10¾ oz) cans condensed cream of mushroom soup
-* ½ cup milk
+* 2 (10¾ oz) cans condensed cream of mushroom soup (make sure it says "Vegan" on the label, or the dish won't be)
+* ½ cup unsweetened non-dairy milk (oat or soy)
 * ¼ tsp black pepper
 * 1 (6 oz) container French-fried onions (French's), about 2⅔ cups, divided
 
