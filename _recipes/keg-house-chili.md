@@ -47,12 +47,12 @@ Our house chili: a big, cozy batch of ground turkey, three kinds of beans, and j
 * 2 cans kidney beans
 * 1 can black beans
 * ½ can tomato paste
-* 1-2 poblanos, diced (optional; treat like the onions)
+* 1–2 poblanos, diced (optional; treat like the onions)
 * ⅓ cup brown sugar
 * 3 Tbsp chili powder
 * 1 tsp cumin
 * 1 tsp oregano
-* 6-10 dashes hot sauce (habanero)
+* 6–10 dashes hot sauce (habanero)
 * Garlic powder, salt & pepper, to taste
 * Red pepper flakes, to taste
 
@@ -69,7 +69,7 @@ Our house chili: a big, cozy batch of ground turkey, three kinds of beans, and j
 
 ##### Instant Pot option:
 
-* Season a little lighter: ~1 Tbsp garlic powder, ½ Tbsp salt, ½ Tbsp pepper, no red pepper flakes (sub ~1-2 tsp hot sauce), and skip the tomato paste.
+* Season a little lighter: ~1 Tbsp garlic powder, ½ Tbsp salt, ½ Tbsp pepper, no red pepper flakes (sub ~1–2 tsp hot sauce), and skip the tomato paste.
 * Sauté the turkey to brown a little, then add the onions and sauté until translucent (~5 min).
 * Add everything else, pressure cook on High for 5 minutes, then slow release for 10+ minutes.
 

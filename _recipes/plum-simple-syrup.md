@@ -1,8 +1,8 @@
 ---
 title: "Plum Simple Syrup"
-image:
-#  path: /images/plum-simple-syrup-lg.png
-#  thumbnail: /images/plum-simple-syrup-sm.png
+# image: 
+#   path: /images/plum-simple-syrup-lg.png
+#   thumbnail: /images/plum-simple-syrup-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
@@ -37,9 +37,9 @@ Another great use for our backyard Santa Rosa plums. This simple syrup comes tog
 
 ## Ingredients
 
-- 1 cup sugar
-- 1 cup water
-- 5-6 small plums (preferably Santa Rosa), halved and pitted
+* 1 cup sugar
+* 1 cup water
+* 5–6 small plums (preferably Santa Rosa), halved and pitted
 
 ## Directions
 
@@ -58,4 +58,4 @@ Another great use for our backyard Santa Rosa plums. This simple syrup comes tog
 * Can freeze to extend shelf life — the high sugar content prevents it from fully freezing, so it's easy to just dig in with a spoon to scoop out what you need.
 
 ---
-Adapted from [Martha Stewart's Plum Simple Syrup](https://www.marthastewart.com/1529370/plum-simple-syrup)
+Original recipe from [Martha Stewart](https://www.marthastewart.com/1529370/plum-simple-syrup)

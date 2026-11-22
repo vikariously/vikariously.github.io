@@ -1,5 +1,5 @@
 - any time I enter a prompt that begins with "Recipe:" (or "recipe:"), it means to do the following:
 - analyze all of the recipes in the _recipes folder
 - ingest the recipe info pasted along with "Recipe:"
-- create a new recipe.md file in the correct format
+- create a new recipe.md file following RECIPE_STYLE.md exactly (it is the house style, shared with Veda's recipe-logging tool; edit that file, not this one, to change the style)
 - I may also follow "Recipe:" with a URL - if so, use the content from the linked recipe to generate the new recipe.md
