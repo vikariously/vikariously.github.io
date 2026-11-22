@@ -23,7 +23,7 @@ tags:
 #  - Sausage
 #  - Turkey
 #  - Veg
-  - Vegetarian/Vegan Friendly
+#  - Vegetarian/Vegan Friendly
 #  - Tofu
 #  - Pasta
 #  - Soup
