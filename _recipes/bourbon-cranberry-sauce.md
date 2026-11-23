@@ -55,7 +55,7 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 ### Notes
 
 * **Bourbon:** You really can't go wrong with either a traditional bourbon (to lean sweeter) or rye whiskey (for a bit more dry/spice character). However, I would personally lean away from a sour mash.
+* **Make-Ahead & Batching:** We typically always cook a double batch in a 9x13 pan, and most Thanksgivings we end up making two double batches. This can be made several days ahead of time and stored in the fridge to help reduce some of the cooking crunch on Wednesday and Thursday.
 
 ---
 [//]: # Original recipe from [SITE](URL)
-
