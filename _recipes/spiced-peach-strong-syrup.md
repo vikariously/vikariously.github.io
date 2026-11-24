@@ -41,7 +41,7 @@ tags:
 published: true
 ---
 
-A rich, fruit-forward cocktail syrup infused with toasted cinnamon and frozen peaches. Mixing white and demerara sugars gives it a warm caramel depth that pairs beautifully with whiskey, aged rum, or iced tea. Because it uses frozen peaches, you can whip up a batch any time of year.
+A rich, fruit-forward cocktail syrup infused with toasted cinnamon and fresh peaches. Mixing white and demerara sugars gives it a warm caramel depth that pairs beautifully with whiskey, aged rum, or iced tea. When peaches are in season, fresh fruit shines, and frozen peaches make a great substitute the rest of the year.
 
 **Yield:** ~12 oz
 
@@ -51,7 +51,7 @@ A rich, fruit-forward cocktail syrup infused with toasted cinnamon and frozen pe
 * 1 cup (200g) white sugar
 * ½ cup (100g) demerara or light brown sugar
 * ¾ cup (180g) water
-* 1½ cups (~225g) frozen sliced peaches
+* 1½ cups (~225g) fresh peaches, sliced
 * ¼ tsp pure vanilla extract (optional)
 * Tiny pinch kosher salt (optional)
 
@@ -59,7 +59,7 @@ A rich, fruit-forward cocktail syrup infused with toasted cinnamon and frozen pe
 
 1. **Toast aromatics:** Toast the cracked cinnamon sticks in a dry saucepan over medium heat for 60–90 seconds until fragrant.
 
-1. **Combine & simmer:** Add the white sugar, demerara or brown sugar, water, and frozen sliced peaches. Bring just to a boil, then reduce immediately to a low simmer for 10–12 minutes, mashing the peaches lightly as they soften. Avoid over-boiling to prevent pectin gelation.
+1. **Combine & simmer:** Add the white sugar, demerara or brown sugar, water, and sliced peaches. Bring just to a boil, then reduce immediately to a low simmer for 10–12 minutes, mashing the peaches lightly as they soften. Avoid over-boiling to prevent pectin gelation.
 
 1. **Steep:** Remove from heat, cover, and steep for 30 minutes.
 
@@ -67,8 +67,9 @@ A rich, fruit-forward cocktail syrup infused with toasted cinnamon and frozen pe
 
 ### Notes
 
+* **Peaches:** If peaches are out of season, frozen sliced peaches are preferable to low-quality fresh.
 * **Vanilla bean option:** You can omit the vanilla extract and instead use ½ of a whole vanilla bean, sliced in half lengthwise and scraped, added at the steeping step (do not boil or simmer!).
 * **Cinnamon:** Do not use ground cinnamon, as mucilage makes the syrup slimy.
-* Changed from the original: increased cinnamon to up to 3 sticks and added the whole vanilla bean steeping option.
+* Changed from the original: increased cinnamon to up to 3 sticks, added the whole vanilla bean steeping option, and switched to fresh peaches.
 
 ---
