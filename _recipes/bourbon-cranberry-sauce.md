@@ -34,11 +34,13 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 
 ## Ingredients
 
-* 1 12oz bag of Cranberries
-* 1¼ cups Granulated Sugar
-* ¼ tsp Ground Cinnamon
-* 1 pinch Nutmeg
-* ¼ cup Bourbon (start with 1 oz. and taste, before adding more)
+| Single Batch | Double Batch |
+| :--- | :--- |
+| 1 12oz bag of Cranberries | 2 12oz bags of Cranberries |
+| 1¼ cups Granulated Sugar | 2½ cups Granulated Sugar |
+| ¼ tsp Ground Cinnamon | ½ tsp Ground Cinnamon |
+| 1 pinch Nutmeg | 2 pinches Nutmeg |
+| ¼ cup Bourbon (start with 1 oz. and taste, before adding more) | ½ cup Bourbon (start with 2 oz. and taste, before adding more) |
 
 ## Directions
 
