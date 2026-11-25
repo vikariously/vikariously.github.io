@@ -40,7 +40,7 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 | 1¼ cups Granulated Sugar | 2½ cups Granulated Sugar |
 | ¼ tsp Ground Cinnamon | ½ tsp Ground Cinnamon |
 | 1 pinch Nutmeg | 2 pinches Nutmeg |
-| ¼ cup Bourbon (start with 1 oz. and taste, before adding more) | ½ cup Bourbon (start with 2 oz. and taste, before adding more) |
+| 1 oz. Bourbon (or more to taste) | 2 oz. Bourbon (or more to taste) |
 
 ## Directions
 
@@ -56,8 +56,9 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 
 ### Notes
 
-* **Bourbon:** You really can't go wrong with either a traditional bourbon (to lean sweeter) or rye whiskey (for a bit more dry/spice character). However, I would personally lean away from a sour mash. In a double batch, I typically end up using between 2–2½ oz (much less than the max called for).
+* **Bourbon:** You really can't go wrong with either a traditional bourbon (to lean sweeter) or rye whiskey (for a bit more dry/spice character). However, I would personally lean away from a sour mash. We almost always make a double batch and I typically use about 2¼ oz for that.
 * **Make-Ahead & Batching:** We typically always cook a double batch in a 9x13 pan, and most Thanksgivings we end up making two double batches. This can be made several days ahead of time and stored in the fridge to help reduce some of the cooking crunch on Wednesday and Thursday.
+* Changed from the original: reduced bourbon to 1 oz per single batch (or more to taste) instead of ¼ cup.
 
 ---
 [//]: # Original recipe from [SITE](URL)
