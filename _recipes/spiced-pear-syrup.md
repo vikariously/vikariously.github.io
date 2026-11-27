@@ -36,7 +36,7 @@ A beautifully sweet syrup infused with warm autumn spices. Perfect for Bourbon/R
 ## Ingredients
 
 - 1 cup water
-- 2 pears (Anjou, larger, not too ripe)
+- 2 pears (Bosc, larger, not too ripe)
 - ¾ cup granulated sugar
 - ¼ cup brown sugar
 - 3 cinnamon sticks
@@ -65,4 +65,3 @@ A beautifully sweet syrup infused with warm autumn spices. Perfect for Bourbon/R
 * **Spice Variations:** Feel free to adjust the spices to your preference. Adding a few whole cloves, ½ tsp. fresh chopped ginger, or a small piece of vanilla bean are other options to create interesting flavor variations.
 
 ---
-
