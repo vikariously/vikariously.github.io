@@ -105,6 +105,29 @@ for orientation, and the files win if they differ.
 * A syrup made for cocktails is `Syrups`. A mixed drink is `Cocktails` plus its
   `"Liquor: …"` tag.
 
+### The Green Room block (cocktails only)
+
+Every `Cocktails` recipe carries one more block, right after `published: true`. The
+Green Room (our cocktail menu app) reads it; the recipe site never shows it. Recipes in
+any other category never carry it.
+
+```yaml
+greenroom:
+  shelf: novel        # classic | novel — always present
+  makes: 2            # drinks the recipe makes as written; leave the line out when 1
+  batch_note: "..."   # optional: a pre-dilution / pitcher note for the batch calculator
+```
+
+* **`shelf: classic`** is a classic cocktail recipe, even when it is our own house
+  version of it (a Daiquiri, a Gimlet, a Smuggler's Cove punch).
+* **`shelf: novel`** is our own unique recipe, or a heavily modified version of a
+  regular cocktail (our hibiscus mule).
+* If the user says which shelf, use it. If they don't, pick the shelf yourself from the
+  two definitions above; Veda asks the user to confirm it.
+* **`makes`** counts the drinks the ingredient amounts make as written (4 oz. rum for
+  two drinks = `makes: 2`). Leave the line out for a single drink.
+* **`batch_note`** only when the source or the user gives one. Never invent it.
+
 ## 3. Body order
 
 After the frontmatter, the body goes in exactly this order. Leave one blank line between
@@ -130,6 +153,22 @@ blocks.
      heading for each group (`#### For the Bread:`, `#### For the Icing:`), with bullets
      under it. Extras that sit outside the recipe go under a `##### ` heading at the end
      of the list: `##### Optional:` or `##### Serve with any of the following:`.
+   * **Cocktails and syrups.** The Green Room does maths on these lines, so:
+     * Every line is amount, then unit, then name: `* 2 oz. Empress 1908 Gin`. When a
+       line names example bottles, the first one is the reference bottle for strength:
+       `* 2 oz. silver rum (e.g. Diplomatico Planas or Planteray 3 Stars)`.
+     * **Cocktail order** (instead of order of first use): spirits, then liqueurs and
+       vermouths, then syrups and juices, then bitters, then toppers (club soda, tonic),
+       then fruit and ice, then garnishes.
+     * **Garnishes** are the last bullet(s), ending `, for garnish`:
+       `* 1 sprig fresh thyme, for garnish`. A garnish with no countable amount has none:
+       `* Freshly grated nutmeg, for garnish`. Name the garnish in the Directions too.
+     * **A drink with two serves** (a Gimlet or a Collins) writes one complete
+       ingredient list per serve, each under its own `#### Gimlet:` / `#### Collins:`
+       heading, never one list with optional lines. Its Directions use the same headings.
+     * **A house-made ingredient** (a syrup) is its own `Syrups` recipe, linked from the
+       cocktail (`[Thyme Simple Syrup](/recipes/thyme-simple-syrup)`). Never write the
+       syrup recipe inside the cocktail.
 5. **`## Directions`**
    * **Every** step starts with `1.`. Markdown numbers them, so never write `2.`, `3.`.
    * Put a blank line between steps.
@@ -158,8 +197,9 @@ permalink: `[Demerara Syrup](/recipes/demerara-syrup)`.
   numbers run together: `1½ cups`, `2⅔ cups`.
 * **Ranges:** use an en dash: `30–35 minutes`, `3–4 loaves`. (Older recipes use hyphens.
   Both render fine, but new recipes use the en dash.)
-* **Units:** `cup`, `Tbsp`, `tsp`, `lb`, `oz`, `fl oz`, `qt`, `"` for inches (`9x13"`),
-  `pinch`, `dash`. Use cans in the form `2 (10¾ oz) cans condensed soup`.
+* **Units:** `cup`, `Tbsp`, `tsp`, `lb`, `oz.`, `qt`, `"` for inches (`9x13"`),
+  `pinch`, `dash`. Ounces are always `oz.` with the period: never `oz`, `ounce`,
+  `ounces`, `fl oz` or `fl. oz.`. Use cans in the form `2 (10¾ oz.) cans condensed soup`.
 * **Temperatures:** the first time a step names an oven or cooking temperature, write
   Fahrenheit with Celsius in parentheses: `350°F (175°C)`. Round the Celsius to the
   nearest 5 (325→165, 350→175, 375→190, 400→200, 425→220, 450→230). Later mentions
@@ -235,7 +275,7 @@ recipe with `published: true`, and list your open questions for the user in your
 
 ## 9. Exemplars
 
-These three published recipes best show the house style across different kinds of
+These four published recipes best show the house style across different kinds of
 dish. When this guide is silent, copy what they do:
 
 * `_recipes/keg-house-chili.md`: a main. It shows multiple tags, "to taste" ingredients,
@@ -245,6 +285,9 @@ dish. When this guide is silent, copy what they do:
   (`Snacks`, `Bread`).
 * `_recipes/plum-simple-syrup.md`: a syrup. It shows the `Syrups` + vegan tags, Notes
   bullets, and an `Original recipe from [Site](URL)` footer.
+* `_recipes/purple-reign.md`: a cocktail. It shows the `greenroom` block, two serves
+  under `#### Gimlet:` / `#### Collins:`, cocktail ingredient order, `, for garnish`
+  lines, and a linked house syrup.
 
 The exemplars predate parts of this vocabulary, so their commented category and tag
 lists are shorter than the full list. Copy their style, but always write the full
