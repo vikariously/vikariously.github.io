@@ -41,7 +41,7 @@ tags:
 published: true
 ---
 
-A bright, fizzy highball built on Tito's vodka, fresh lemon juice, and crisp grapefruit soda, finished with a few dashes of grapefruit bitters. It is light, tart, and refreshing—ideal for sipping on a warm afternoon with a good book in hand.
+A more complex twist on a Greyhound, this bright, fizzy highball is built on Tito's vodka, fresh lemon juice, and crisp grapefruit soda, finished with a few dashes of grapefruit bitters. It is light, tart, and refreshing—ideal for sipping on a warm afternoon with a good book in hand.
 
 **Yield:** 1 cocktail
 
