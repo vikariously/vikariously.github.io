@@ -43,7 +43,7 @@ One of our favorite heat-and-eat breakfasts – I'll prep 8-12 of these on a Sun
 * ~8 strips bacon (a few strips shy of 1lb)
   * **Note:** you can omit this to keep it vegetarian friendly, if you do, use olive oil instead of bacon renderings to cook onions & greens
 * 1 large or 2 small red onions (don’t skimp here! But you can substitute white or yellow onions if you prefer)
-* 4-5 oz greens (most/all of a small clamshell) - power greens, spinach, baby kale, etc.
+* 4-5 oz. greens (most/all of a small clamshell) - power greens, spinach, baby kale, etc.
 * 1 Tbsp Everything Bagel seasoning (up to 1.5 Tbsp to taste)
 * 8 large (burrito sized) Mission Carb Balance tortillas (6 to a package, requires 1⅓ packages)
 

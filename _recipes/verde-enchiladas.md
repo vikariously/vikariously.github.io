@@ -37,7 +37,7 @@ The full name of these used to be "Bargain Bin-chiladas", because we'd make them
 
 ## Ingredients
 
-* 28 oz can Las Palmas (or other) green Chile enchilada sauce
+* 28 oz. can Las Palmas (or other) green Chile enchilada sauce
 * Shredded chicken (2 cups minimum, and should be dry, like rotisserie chicken leftovers)
 * 1 fresh Poblano Pepper, chopped ¼ inch squares OR small can diced green chilies
 * 1 Yellow Onion (can substitute White Onion)

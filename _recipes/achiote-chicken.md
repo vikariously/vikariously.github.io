@@ -47,7 +47,7 @@ Delicious, flavorful chicken thighs – a perfect base for use in any Mexican en
 * 2 teaspoons Mexican oregano
 * 1 teaspoon ground cumin
 * 1 teaspoon black pepper
-* 2 ounces achiote powder
+* 2 oz. achiote powder
 * 2 teaspoons onion powder
 
 ##### Chicken

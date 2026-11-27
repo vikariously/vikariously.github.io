@@ -44,7 +44,7 @@ This recipe can also be cooked several ways. You can do a simple marinade and th
 * 1 lb boneless skinless chicken breasts cut into smaller pieces
 * 1 lb boneless skinless chicken thighs
 * ¼ cup olive oil
-* 3 tablespoons lemon juice (1.5 oz)
+* 3 tablespoons lemon juice (1.5 oz.)
 * 3 Tbsp of Shawarma Spice Blend (1½ Tbsp per pound of chicken)
 * Your favorite Mediterranean Fixin's, for serving:
   * Tomatoes

@@ -35,7 +35,7 @@ published: true
 
 ## Ingredients
 
-* 16 Ounces Uncooked Pasta - highly recommend shells (and the larger the better!)
+* 16 oz. Uncooked Pasta - highly recommend shells (and the larger the better!)
 * 4 Cups Chicken Broth
 * 2 Tablespoons Butter/Margarine
 * 1 Teaspoon Hot Pepper Sauce (any hot sauce is fine here but DON’T omit it)

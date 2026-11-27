@@ -48,9 +48,9 @@ A hearty meal that will make the whole house smell good all day, and something o
 * 3 celery sticks, cut into 2-inch chunks
 * 4 large carrots, peeled and cut into 1-2 inch chunks
 * 6 garlic cloves, chopped finely
-* 8 ounces beer (not dark) - we used Sierra Nevada Celebration Ale
-* 1 (28-ounces) can crushed tomatoes
-* ¼ cup chicken broth or beef stock (2oz)
+* 8 oz. beer (not dark) - we used Sierra Nevada Celebration Ale
+* 1 (28 oz.) can crushed tomatoes
+* ¼ cup chicken broth or beef stock (2 oz.)
 * 3 bay leaves
 
 ##### Optional:

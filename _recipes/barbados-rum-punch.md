@@ -9,7 +9,10 @@ categories:
 #  - Mains
 #  - Sides
 #  - Appetizers
+#  - Snacks
+#  - Salads
 #  - Sauces
+#  - Bread
 #  - Sweets
   - Cocktails
 #  - Syrups
@@ -17,7 +20,11 @@ tags:
 #  - Chicken
 #  - Beef
 #  - Pork
+#  - Bacon
 #  - Sausage
+#  - Turkey
+#  - Fish
+#  - Salmon
 #  - Veg
 #  - Vegetarian/Vegan Friendly
 #  - Tofu
@@ -28,25 +35,30 @@ tags:
   - "Liquor: Rum"
 #  - "Liquor: Vodka"
 #  - "Liquor: Tequila"
+#  - InstantPot
+#  - Slow Cooker
+#  - EZ-Freeze
 published: true
+greenroom:
+  shelf: classic
 ---
 
 This Smuggler's Cove cocktail is incredible – rich and sweet, with a bit of lime to cut the rum.
 
 ## Ingredients
 
-* 1 ounce fresh lime juice
-* 1 ounce [SC Demerara Syrup](/recipes/demerara-syrup) 
-* 2 ounces blended aged rum (Barbados)
+* 2 oz. blended aged rum (Barbados)
+* 1 oz. [SC Demerara Syrup](/recipes/demerara-syrup)
+* 1 oz. fresh lime juice
 * 1 dash Angostura bitters
-* Garnish with freshly grated nutmeg
+* Freshly grated nutmeg, for garnish
 
 ## Directions
 
+1. Fill a footed pilsner with cubed or cracked ice.
 
-1. Fill a footed pilsner with cubed or cracked ice. 
+1. Add the rum, demerara syrup, lime juice and bitters to a cocktail shaker. Fill with cubed or cracked ice. Shake and strain into the glass.
 
-1. Add all the ingredients to a cocktail shaker. Fill with cubed or cracked ice. Shake and strain into glass.
+1. Garnish with freshly grated nutmeg.
 
-1. Top with grated nutmeg
-
+---

@@ -39,6 +39,8 @@ tags:
 #  - Slow Cooker
 #  - EZ-Freeze
 published: true
+greenroom:
+  shelf: novel
 ---
 
 A more complex twist on a Greyhound, this bright, fizzy highball is built on Tito's vodka, fresh lemon juice, and crisp grapefruit soda, finished with a few dashes of grapefruit bitters. It is light, tart, and refreshing—ideal for sipping on a warm afternoon with a good book in hand.
@@ -47,10 +49,10 @@ A more complex twist on a Greyhound, this bright, fizzy highball is built on Tit
 
 ## Ingredients
 
-* 2 oz Tito's vodka
-* 1 oz fresh squeezed lemon juice
-* 5 oz Fever-Tree grapefruit soda
+* 2 oz. Tito's vodka
+* 1 oz. fresh squeezed lemon juice
 * 3 dashes grapefruit bitters
+* 5 oz. Fever-Tree grapefruit soda
 
 ## Directions
 

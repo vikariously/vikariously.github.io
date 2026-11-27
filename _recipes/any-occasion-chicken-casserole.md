@@ -42,7 +42,7 @@ A cozy, comfort-foody casserole that can be frozen in whole or in part for easy 
 
 ## Ingredients
 
-* 1 (7oz) pkg Herb Stuffing Mix
+* 1 (7 oz.) pkg Herb Stuffing Mix
 * ~half stick melted butter
 * 3+ cups shredded cooked chicken
 * 1 small yellow onion, chopped

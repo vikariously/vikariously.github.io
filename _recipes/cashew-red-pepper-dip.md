@@ -40,7 +40,7 @@ This recipe takes some forethought to soak the cashews, but the end result is a 
 * 3/4 cup Cashews, soaked "overnight"
 * 1 red bell pepper
 * 1 clove garlic
-* 2-3 fl. oz. non-dairy milk (Ripple, almond, oat, etc.)
+* 2-3 oz. non-dairy milk (Ripple, almond, oat, etc.)
 * 1/2 tsp salt
 
 ## Directions

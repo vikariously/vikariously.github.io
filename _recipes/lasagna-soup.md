@@ -38,11 +38,11 @@ I love lasagna, but I don't always want that much noodles & ricotta... enter: _L
 * 1-1.5 pounds Italian sausage, lean ground beef, or ground turkey
 * 1 yellow onion, diced
 * 5 cloves garlic, minced
-* 10oz sliced crimini mushrooms
-* 5oz power greens, baby spinach, or baby kale (about one bag or small clamshell, or more to taste!)
+* 10 oz. sliced crimini mushrooms
+* 5 oz. power greens, baby spinach, or baby kale (about one bag or small clamshell, or more to taste!)
 * 4 cups chicken broth (or vegetable broth if you’re going veg)
 * 2 cups marinara sauce
-* 1 15oz can diced tomatoes
+* 1 (15 oz.) can diced tomatoes
 * ½ T italian seasoning
 * ½ t additional dried or fresh basil
 * ¼ teaspoon red pepper flakes (less or more depending on your heat preference, if you used spicy sausage, etc)

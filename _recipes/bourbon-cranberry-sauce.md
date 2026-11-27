@@ -36,7 +36,7 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 
 | Single Batch | Double Batch |
 | :--- | :--- |
-| 1 12oz bag of Cranberries | 2 12oz bags of Cranberries |
+| 1 (12 oz.) bag of Cranberries | 2 (12 oz.) bags of Cranberries |
 | 1¼ cups Granulated Sugar | 2½ cups Granulated Sugar |
 | ¼ tsp Ground Cinnamon | ½ tsp Ground Cinnamon |
 | 1 pinch Nutmeg | 2 pinches Nutmeg |
@@ -51,14 +51,14 @@ A family favorite, courtesy of The Late Late Show with James Corden! So good, we
 
 1. Remove the cover and stir to melt any undissolved sugar. Return the dish to the oven, uncovered, and bake for 5 more minutes (or until the cranberries are soft and surrounded by a syrupy sauce).
 
-1. Remove the dish from the oven and immediately stir in the bourbon – start with 1 oz and taste, before adding more. Let the dish cool to room temperature, then chill for at least 1 hour before serving.
+1. Remove the dish from the oven and immediately stir in the bourbon – start with 1 oz. and taste, before adding more. Let the dish cool to room temperature, then chill for at least 1 hour before serving.
 
 
 ### Notes
 
-* **Bourbon:** You really can't go wrong with either a traditional bourbon (to lean sweeter) or rye whiskey (for a bit more dry/spice character). However, I would personally lean away from a sour mash. We almost always make a double batch and I typically use about 2¼ oz for that.
+* **Bourbon:** You really can't go wrong with either a traditional bourbon (to lean sweeter) or rye whiskey (for a bit more dry/spice character). However, I would personally lean away from a sour mash. We almost always make a double batch and I typically use about 2¼ oz. for that.
 * **Make-Ahead & Batching:** We typically always cook a double batch in a 9x13 pan, and most Thanksgivings we end up making two double batches. This can be made several days ahead of time and stored in the fridge to help reduce some of the cooking crunch on Wednesday and Thursday.
-* Changed from the original: reduced bourbon to 1 oz per single batch (or more to taste) instead of ¼ cup.
+* Changed from the original: reduced bourbon to 1 oz. per single batch (or more to taste) instead of ¼ cup.
 
 ---
 [//]: # Original recipe from [SITE](URL)

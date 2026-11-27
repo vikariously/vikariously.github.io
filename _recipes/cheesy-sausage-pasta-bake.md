@@ -43,8 +43,8 @@ published: false
 
 * 1 lb Rigatoni, cooked according to package directions
 * 1 lb Mild Italian sausage
-* 9 oz Baby spinach
-* 24 1/3 fl oz Marinara sauce
+* 9 oz. Baby spinach
+* 24 1/3 oz. Marinara sauce
 * 1 tsp Ground black pepper
 * 1 cup Fresh basil, divided use
 * 2 tbsp Salted butter

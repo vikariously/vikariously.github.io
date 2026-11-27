@@ -44,9 +44,9 @@ A bright, crunchy slaw with no mayo in sight — just olive oil, vinegar, and li
 * 2 large fresno chilis, flesh and some seeds removed, diced into small strips (can sub jalapeños)
 * ½ cup shredded carrots
 * ¼ cup cilantro, diced
-* 1 oz olive oil
-* 1 oz white wine vinegar
-* 1½ oz lime juice
+* 1 oz. olive oil
+* 1 oz. white wine vinegar
+* 1½ oz. lime juice
 * ¼ tsp salt
 * Fresh ground black pepper
 

@@ -9,7 +9,10 @@ categories:
 #  - Mains
 #  - Sides
 #  - Appetizers
+#  - Snacks
+#  - Salads
 #  - Sauces
+#  - Bread
 #  - Sweets
   - Cocktails
 #  - Syrups
@@ -17,7 +20,11 @@ tags:
 #  - Chicken
 #  - Beef
 #  - Pork
+#  - Bacon
 #  - Sausage
+#  - Turkey
+#  - Fish
+#  - Salmon
 #  - Veg
 #  - Vegetarian/Vegan Friendly
 #  - Tofu
@@ -28,36 +35,42 @@ tags:
 #  - "Liquor: Rum"
 #  - "Liquor: Vodka"
 #  - "Liquor: Tequila"
+#  - InstantPot
+#  - Slow Cooker
+#  - EZ-Freeze
 published: true
+greenroom:
+  shelf: novel
 ---
 
-Floral and herbal, with a lovely lilac hue.
+Floral and herbal, with a lovely lilac hue. We make it two ways: shaken and served up as a Gimlet, or tall over ice and topped with club soda as a Collins.
 
 ## Ingredients
 
-* 2 oz. Empress Gin
-* 1 oz. Meyer Lemon Juice
-* ¾ oz. Thyme Simple Syrup (recipe below)
-* ~4 oz. Club Soda (*optional*)
+#### Gimlet:
+* 2 oz. Empress 1908 Gin
+* ¾ oz. [Thyme Simple Syrup](/recipes/thyme-simple-syrup)
+* 1 oz. Meyer lemon juice
+* 1 sprig fresh thyme, for garnish
+
+#### Collins:
+* 2 oz. Empress 1908 Gin
+* ¾ oz. [Thyme Simple Syrup](/recipes/thyme-simple-syrup)
+* 1 oz. Meyer lemon juice
+* 4 oz. club soda
+* 1 sprig fresh thyme, for garnish
+* ½ lemon wheel, for garnish
 
 ## Directions
 
-1. Shake, then pour into a coupe. Garnish with a sprig of thyme. OR, if making a Collins: pour over ice in a Collins glass and top with club soda. Garnish with sprig of thyme and half lemon wheel.
+#### Gimlet:
+1. Add the gin, thyme simple syrup and Meyer lemon juice to a cocktail shaker with ice. Shake until well chilled.
 
-#### Thyme Simple Syrup
+1. Strain into a coupe. Garnish with a sprig of thyme.
 
-* 1 cup Water
-* 1 cup Granulated White Sugar
-* 8-10 sprigs fresh Thyme
+#### Collins:
+1. Add the gin, thyme simple syrup and Meyer lemon juice to a cocktail shaker with ice. Shake until well chilled.
 
+1. Strain over ice in a Collins glass and top with the club soda. Garnish with a sprig of thyme and a half lemon wheel.
 
-1. Remove any woody stems from the thyme - you can use the rest as shorter stems or just leaves, as you prefer.
-
-1. Add the sugar, water and thyme to a small pan and warm over a medium heat, stirring regularly to help the sugar dissolve. Only warm it enough to let the sugar dissolve and have the mixture just starting to simmer.
-
-1. Remove the pan from the heat and allow the thyme to steep in the syrup for around 15-20 minutes as the syrup cools.
-
-1. Pour the syrup through a fine strainer/sieve to hold back the thyme and store the syrup in a sealed bottle/jar in the fridge until needed.
-
-Thyme Syrup recipe originally from [figjar.com](https://www.figjar.com/thyme-simple-syrup/)
-
+---

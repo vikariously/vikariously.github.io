@@ -47,7 +47,7 @@ This "Anything Goes" Strata is our go-to answer when we've got an assortment of 
 * 1 onion, diced (*optional*)
 * 3 handfuls dark, leafy greens such as spinach, arugula or baby kale, chopped (about 1 cup packed)
 * 1 cup diced salty deli meat, such as Canadian bacon, ham, or cooked bacon. You can also use turkey, shredded chicken, etc.
-* 8 ounces (about 2 1/2 packed cups) leftover bread torn into 1-inch pieces, such as sourdough or white bread, English muffins, bagels, hot dog buns, etc. 
+* 8 oz. (about 2 1/2 packed cups) leftover bread torn into 1-inch pieces, such as sourdough or white bread, English muffins, bagels, hot dog buns, etc. 
 * 3/4 cup shredded mild melting cheese such as Gruyere, Cheddar, Provolone or Gouda. Parmesan works nicely on the top here as well.
 
 

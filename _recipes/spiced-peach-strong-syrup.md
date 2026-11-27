@@ -43,7 +43,7 @@ published: true
 
 A rich, fruit-forward cocktail syrup infused with toasted cinnamon and fresh peaches. Mixing white and demerara sugars gives it a warm caramel depth that pairs beautifully with whiskey, aged rum, or iced tea. When peaches are in season, fresh fruit shines, and frozen peaches make a great substitute the rest of the year.
 
-**Yield:** ~12 oz
+**Yield:** ~12 oz.
 
 ## Ingredients
 

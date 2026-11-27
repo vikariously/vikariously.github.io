@@ -40,10 +40,10 @@ The classic holiday green bean casserole — creamy mushroom sauce and a crispy 
 
 * 2 lb fresh green beans, trimmed and cut into 1½–2" pieces
 * 2 Tbsp kosher salt (for the blanching water)
-* 2 (10¾ oz) cans condensed cream of mushroom soup
+* 2 (10¾ oz.) cans condensed cream of mushroom soup
 * ½ cup milk
 * ¼ tsp black pepper
-* 1 (6 oz) container French-fried onions (French's), about 2⅔ cups, divided
+* 1 (6 oz.) container French-fried onions (French's), about 2⅔ cups, divided
 
 ## Directions
 

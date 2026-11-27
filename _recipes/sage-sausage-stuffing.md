@@ -38,10 +38,10 @@ Hands down my favorite item on the Thanksgiving dinner table. The magic bread co
 
 * 2½ lbs bread, cut into ¾-inch cubes (about 5 quarts)
   * We used Specialties’ Focaccia and white hot dog buns, it is an amazing combo
-* 8 Tbsp butter (1 stick; 4 ounces; 115g)
+* 8 Tbsp butter (1 stick; 4 oz.; 115g)
 * 1 1/2 pounds (680g) sage sausage, removed from casing (We used 50/50 hot and mild Italian)
-* 1 large onion, finely chopped (about 12 ounces; 350g)
-* 4 large ribs celery, finely chopped (about 12 ounces; 350g)
+* 1 large onion, finely chopped (about 12 oz.; 350g)
+* 4 large ribs celery, finely chopped (about 12 oz.; 350g)
 * 2 cloves garlic, minced or grated on a Microplane
 * ¼ cup minced fresh sage leaves (or 2 teaspoons dried sage leaves)
 * Kosher salt and freshly ground black pepper, if needed (see note above)
