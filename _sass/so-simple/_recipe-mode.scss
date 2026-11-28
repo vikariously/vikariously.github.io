@@ -92,3 +92,16 @@
     color: rgba(255, 255, 255, 0.6);
   }
 }
+
+/* ==========================================================================
+   Show Cocktails & Syrups toggle (Recipes listing)
+   Hidden by default only when JS runs, so no-JS visitors see everything.
+   ========================================================================== */
+
+.drinks-filter {
+  margin: 0 0 1.5rem;
+}
+
+.js .drinks-filterable:not(.show-drinks) > [data-drink] {
+  display: none;
+}

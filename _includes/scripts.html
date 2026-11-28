@@ -63,4 +63,7 @@ MathJax = {
 
 {%- if page.collection == 'recipes' -%}
   <script src="{{ '/assets/js/recipe-mode.js' | relative_url }}"></script>
+  {%- if page.layout == 'collection' -%}
+    <script src="{{ '/assets/js/drinks-filter.js' | relative_url }}"></script>
+  {%- endif -%}
 {%- endif -%}

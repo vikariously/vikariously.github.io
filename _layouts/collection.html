@@ -4,6 +4,6 @@ layout: page
 
 {{ content }}
 
-<div class="entries-{{ page.entries_layout | default: 'list' }}">
+<div class="entries-{{ page.entries_layout | default: 'list' }}{% if page.collection == 'recipes' %} drinks-filterable{% endif %}">
   {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
 </div>
