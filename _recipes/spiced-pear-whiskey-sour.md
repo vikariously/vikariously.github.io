@@ -1,8 +1,8 @@
 ---
-title: "Spiced Pear Bourbon Sour"
+title: "Spiced Pear Whiskey Sour"
 # image: 
-#   path: /images/spiced-pear-bourbon-sour-2-lg.png
-#   thumbnail: /images/spiced-pear-bourbon-sour-2-sm.png
+#   path: /images/spiced-pear-whiskey-sour-lg.png
+#   thumbnail: /images/spiced-pear-whiskey-sour-sm.png
 #  caption: "CAPTION"
 categories:
 #  - Breakfast
@@ -50,7 +50,7 @@ A warm, autumnal whiskey cocktail that pairs the spicy kick of high-rye bourbon 
 ## Ingredients
 
 * 2 oz. Redemption High Rye Bourbon
-* 1 oz. spiced pear simple syrup
+* 1 oz. [Spiced Pear Syrup](/recipes/spiced-pear-syrup)
 * 1 oz. fresh squeezed lemon juice
 * 3 dashes Angostura bitters
 * 1 dehydrated lemon slice (optional), for garnish
@@ -58,7 +58,7 @@ A warm, autumnal whiskey cocktail that pairs the spicy kick of high-rye bourbon 
 
 ## Directions
 
-1. Add the bourbon, spiced pear simple syrup, lemon juice, and Angostura bitters to a mixing glass with ice and stir until well chilled and diluted.
+1. Add the bourbon, spiced pear syrup, lemon juice, and Angostura bitters to a mixing glass with ice and stir until well chilled and diluted.
 
 1. Strain into a rocks glass over a single large ice cube. Garnish with a dehydrated lemon slice and a star anise pod, if desired.
 
