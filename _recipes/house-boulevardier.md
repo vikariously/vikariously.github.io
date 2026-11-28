@@ -43,7 +43,7 @@ greenroom:
   shelf: classic
 ---
 
-Our house take on the classic Boulevardier, leaning on the spicy backbone of a high-rye bourbon to balance the rich sweet vermouth and slightly dialed-back Campari. Shaken and served over a single large cube with a bright hit of lemon oil, it is a bold, bittersweet sipper for any evening.
+Our house take on the classic Boulevardier, leaning on the spicy backbone of a high-rye bourbon to balance the rich sweet vermouth and slightly dialed-back Campari. Stirred and served over a single large cube with a bright hit of lemon oil, it is a bold, bittersweet sipper for any evening.
 
 **Yield:** 1 cocktail
 
@@ -57,7 +57,7 @@ Our house take on the classic Boulevardier, leaning on the spicy backbone of a h
 
 ## Directions
 
-1. Combine the bourbon, sweet vermouth, and Campari in a cocktail shaker with ice and shake until well chilled.
+1. Combine the bourbon, sweet vermouth, and Campari with ice and stir until well chilled.
 
 1. Strain into a lowball glass over 1 large ice cube.
 
