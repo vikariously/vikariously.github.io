@@ -44,7 +44,7 @@ greenroom:
   summary: "Spirit of choice, lime, ginger beer"
 ---
 
-Three takes on the classic ginger beer buck, built right in the glass over ice. Pick your passport: crisp vodka with Fever-Tree for a classic Moscow Mule, earthy blanco tequila for a Mexican Mule, or botanical Roku gin paired with extra-spicy Q Ginger Beer for a London Buck.
+Three takes on the classic ginger beer buck, built right in the glass over ice. Pick your passport: crisp vodka with Fever Tree for a classic Moscow Mule, earthy blanco tequila for a Mexican Mule, or botanical Roku gin paired with extra-spicy Q Ginger Beer for a London Buck.
 
 **Yield:** 1 cocktail
 
@@ -54,13 +54,13 @@ Three takes on the classic ginger beer buck, built right in the glass over ice. 
 
 * 2 oz. Tito's Vodka
 * 1 oz. fresh lime juice
-* 5 oz. Fever-Tree Ginger Beer
+* 5 oz. Fever Tree Ginger Beer
 
 #### Mexican Mule:
 
 * 2 oz. Cimarron Blanco Tequila
 * 1 oz. fresh lime juice
-* 5 oz. Fever-Tree Ginger Beer
+* 5 oz. Fever Tree Ginger Beer
 
 #### London Buck:
 
