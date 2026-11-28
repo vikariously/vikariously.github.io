@@ -52,7 +52,7 @@ A more complex twist on a Greyhound, this bright, fizzy highball is built on Tit
 * 2 oz. Tito's vodka
 * 1 oz. fresh squeezed lemon juice
 * 3 dashes grapefruit bitters
-* 5 oz. Fever Tree grapefruit soda
+* 5 oz. Fever-Tree grapefruit soda
 
 ## Directions
 
