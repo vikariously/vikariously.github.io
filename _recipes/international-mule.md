@@ -69,22 +69,8 @@ Three takes on the classic ginger beer buck, built right in the glass over ice. 
 
 ## Directions
 
-#### Moscow Mule:
-
 1. Fill a copper mug or highball glass with ice.
 
-1. Add the vodka and fresh lime juice, top with the Fever-Tree Ginger Beer, and stir gently to combine.
-
-#### Mexican Mule:
-
-1. Fill a highball glass or copper mug with ice.
-
-1. Add the blanco tequila and fresh lime juice, top with the Fever-Tree Ginger Beer, and stir gently to combine.
-
-#### London Buck:
-
-1. Fill a highball glass with ice.
-
-1. Add the gin and fresh lime juice, top with the Q Ginger Beer, and stir gently to combine.
+1. Add the spirit and fresh lime juice, top with the ginger beer, and stir gently to combine.
 
 ---
