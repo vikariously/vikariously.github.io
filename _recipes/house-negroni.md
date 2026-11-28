@@ -43,7 +43,7 @@ greenroom:
   shelf: classic
 ---
 
-Our house proportions for a Negroni: gin-forward with Beefeater, rich Cocchi Vermouth di Torino, and dialed-back Campari so the bitter doesn't overwhelm the drink. Shaken and strained over a single large cube with a bright lemon peel on top.
+Our house proportions for a Negroni: gin-forward with Beefeater, rich Cocchi Vermouth di Torino, and dialed-back Campari so the bitter doesn't overwhelm the drink. The candied lemon peel notes in the Beefeater make an ideal pairing with the bitter Campari. Stirred and strained over a single large cube with a bright lemon peel on top.
 
 **Yield:** 1 cocktail
 
@@ -57,7 +57,7 @@ Our house proportions for a Negroni: gin-forward with Beefeater, rich Cocchi Ver
 
 ## Directions
 
-1. Add the gin, sweet vermouth, and Campari to a shaker with ice and shake until well-chilled.
+1. Add the gin, sweet vermouth, and Campari to a mixing glass with ice and stir until well-chilled.
 
 1. Strain into a lowball glass over 1 large ice cube.
 
