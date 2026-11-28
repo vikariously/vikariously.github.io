@@ -41,6 +41,7 @@ tags:
 published: true
 greenroom:
   shelf: classic
+  summary: "Spirit of choice, lime, ginger beer"
 ---
 
 Three takes on the classic ginger beer buck, built right in the glass over ice. Pick your passport: crisp vodka with Fever-Tree for a classic Moscow Mule, earthy blanco tequila for a Mexican Mule, or botanical Roku gin paired with extra-spicy Q Ginger Beer for a London Buck.

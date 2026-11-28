@@ -43,7 +43,7 @@ A beautifully sweet syrup infused with warm autumn spices. Perfect for Bourbon/R
 - 1 star anise pod (_optional_)
 - pinch nutmeg (_optional_)
 
-**Note on Spices:** When first making this, we used 3 cinnamon sticks and the nutmeg. Next time, I'll be adding the Star Anise to see how it changes!
+**Note on Spices:** After making several batches, my personal preference is 3 cinnamon sticks and freshly microplaned nutmeg (pre-ground is okay too). The star anise takes the drink in a sweeter and distinctly licorice direction that is polarizing. If that's your thing, enjoy! Otherwise, consider using whole star anise pods as garnish to give a subtle aroma and festive flare.
 
 ## Directions
 
